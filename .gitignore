@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# Data & models (too large for Git)
+dataset/*
+!dataset/README.md
+backend/model/*
+!backend/model/README.md
+*.keras
+*.h5
+# Node
+node_modules/
+dist/
+.output/
+.vinxi/
+.wrangler/
+# OS / IDE
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
