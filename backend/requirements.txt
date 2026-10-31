@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+python-dotenv==1.0.1
+tensorflow==2.16.2
+numpy>=1.26,<2.0
+pandas==2.2.2
+pillow==10.4.0
+scikit-learn==1.5.1
+matplotlib==3.9.2
